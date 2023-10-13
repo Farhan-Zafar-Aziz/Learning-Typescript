@@ -1,0 +1,6 @@
+"use strict";
+// Q9 Favorite Number: Store your favorite number in a variable. Then, using that variable, create a message that reveals your favorite number. Print that message.
+let fav_num = 7;
+console.log(`My favourite number is: ${fav_num}`);
+// Question 10 related to comments so i have added comments in the above questions.
+//Question answer is in Question!
